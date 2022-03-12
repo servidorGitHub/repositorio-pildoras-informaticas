@@ -1,2 +1,2 @@
 const elementos = ['plomo', 'Berilio', 'oro', 'plata', 'bronce'];
-const elementos2 = [...elementos];
+const elementos2 = [...elementos, 'Helio', 'Neon'];
